@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hi, I'm Pavan Kumar
 
-<!--
-**PavanKumar-393/PavanKumar-393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+- 🎓 B.Tech Graduate (2026).
+- 🌱 Learning Full-Stack Development.
+- 🧠 Practicing Data Structures and Algorithms.
+- 💡 Interested in building real-world projects.
+- 🎯 Goal: Become a skilled Full-Stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub 
+
+📚 Currently Learning
+
+- React, FAST APIs 
+- Data Structures and Algorithms
+
+🤝 Connect With Me
+
+- GitHub: PavanKumar-393
+- LinkedIn: www.linkedin.com/in/yanamulapalli-pavan-kumar-618043304
+- Email : ypavankumar393@gmail.com
+
+
+⭐ Thanks for visiting my profile!
