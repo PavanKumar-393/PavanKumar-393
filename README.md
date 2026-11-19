@@ -1,4 +1,4 @@
-👋 Hi, I'm Pavan Kumar
+                                               👋 Hi, I'm Y. Pavan Kumar 
 
 💻 Aspiring Full-Stack Developer
 
@@ -14,7 +14,7 @@
 - SQL
 - HTML
 - CSS
-- JavaScript
+- JavaScript 
 - Git & GitHub 
 
 📚 Currently Learning
